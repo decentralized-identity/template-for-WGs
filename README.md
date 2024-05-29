@@ -8,7 +8,7 @@ Use this repository template for DIF Working Groups. It does the following:
 
 ## Template Instructions
 - Find/replace "template-for-WGs" with working group name
-- Update all of the links in AGENDA.md and [set up hackmd integration](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github)
+- Update all of the links in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
 - Update CODEOWNERS
 - Update the README. This includes
    - All content and links in this file
